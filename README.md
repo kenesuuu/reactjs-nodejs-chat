@@ -1,5 +1,7 @@
 # reactjs-nodejs-chat
 
+install npm init both frontend and backend
+
 Register then create a project and user at chatengine.io
 
 Collect the Project ID / username / User Secret
